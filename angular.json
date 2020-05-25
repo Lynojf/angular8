@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "njPrueba"
+    }
+  },
+  "defaultProject": "njPrueba",
+  "cli": {
+    "analytics": false
+  }
 }
